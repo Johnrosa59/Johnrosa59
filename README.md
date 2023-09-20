@@ -25,7 +25,7 @@ Meu Contatos <br>
 
     
   
-[![João Vitor Rosa stats](https://github-readme-stats.vercel.app/api?username=johnrosa59)](https://github.com/anuraghazra/github-readme-stats)
+[![João Vitor Rosa stats](https://github-readme-stats.vercel.app/api?username=Johnrosa59)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnrosa59)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnrosa59)](https://github.com/anuraghazra/github-readme-stats)
